@@ -14,3 +14,28 @@ body {
   opacity: 0.9;
   text-align: center;
 }
+
+#logo {
+  height: 50px;
+  width: auto;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 10px;
+  border-bottom: 1px solid seashell;
+  align-items: center;
+}
+
+.navbar ul {
+  display: flex;
+  text-decoration: underline;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  padding: 12px;
+}
