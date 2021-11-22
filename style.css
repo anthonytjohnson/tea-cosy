@@ -88,3 +88,12 @@ li {
   background-color: black;
   margin: 0 40px;
 }
+
+.contact {
+  height: 200px;
+}
+
+.footer {
+  margin-left: 20px;
+  text-align: left;
+}
